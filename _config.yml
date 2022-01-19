@@ -1,0 +1,11 @@
+theme: jekyll-theme-slate
+logo: /assets/logo.png
+title: " "
+description: >
+  <center><nobr><a style="color:white" target="_blank" href="mailto:joshuatobin@gmail.com">email</a> |
+    <a style="color:white" target="_blank" href="https://github.com/joshuatobin/">github</a> |
+    <a style="color:white" target="_blank" href="https://linkedin.com/in/joshuatobin">linkedin</a></nobr></center>
+
+show_downloads: false
+github:
+  is_project_page: false
