@@ -2,6 +2,13 @@
 
 Over 20+ years experience leading high-impact engineering initiatives. Goal-focused leader with a diverse background in cloud native infrastructure, distributed systems and high-availability production environments. I've had success working at small start-ups in addition to navigating large 50k+ people organizations. I have a knack for understanding cross-organizational difficiencies and solving problems through precise communication, efficient planning and execution. I prefer working on a team of highly motivated peers vs being in a silo as a service role. 
 
+## Possibily Interesting Facts
+
+* I've worked remotely almost as long as I've been in an office. 
+* I probably won't pass your whiteboard test and can't write you the next world changing algorithm. 
+* I live in Upstate, NY with my wife, 2 kids, and 2 rottweilers Bonnie and Clyde. 
+* My wife and I snowmobile a few thousand miles a year. Its fun!
+
 ## Specialties
 
 * Operating Systems: Ubuntu/Debian, CentOS, Redhat, etc.
@@ -10,7 +17,6 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 
 
 ### Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
-
 ###### Sept 2021 - Current
 
 * Hand picked to help spin up a small virtual squad within MuleSoft to run a Proof of Concept.
@@ -23,7 +29,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Manage, monitor, maintain our squads wide variety of internal applications. Python, Node, Golang etc.
 * Helping to manage and mentor service teams for a large migration of legacy services to our internal kubernetes platform. 
 * Worked to implement an Okta IDP implementation within our GovCloud enviroment for solving a long standing internal issue. 
-* Apart of various high visability projects across the organization to save millions of dollars of business working directly with customers. 
+* Apart of various high visability projects across the organization to save millions of dollars of ACV working directly with customers. 
 
 ### Lead Engineer - Security and Compliance Automation - [Salesforce](https://www.salesforce.com/) / [Heroku](https://www.heroku.com/about) 
 
@@ -43,8 +49,29 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Supported over 100+ internal applications running on the platform. 
 * DNS / SSL / AWS account management. 
 * Operating Splunk on AWS. Supporting 60TB (and growing) of data ingestion per day with zero down time, zero data loss requirements.
-* Built tooling for internal engineers. Ruby/Go running on the heroku platform.
+* Built tooling (monitoring, metrics collection, logging facilities) for internal engineers. Ruby/Go running on the heroku platform.
 
+### Systems Engineer - [Audax (now Optum)](https://www.optum.com/)
+###### July 2012 - Feb 2014
+
+* Building/Designing/Scaling EC2 cloud infrastructure to support Audax in the social healthcare realm.
+
+### Services Engineer - [Canonical](https://canonical.com/)
+###### Jan 2012 - July 2012
+
+* Working on OpenStack. Wasn't the job for me. 
+
+### Systems Engineer - [Linden Lab (SecondLife)](https://lindenlab.com/)
+###### 2007 - Jan 2012
+
+* Worked on the operations team running the Second Life platform.
+* Colo runs, on-call, all-nighters, setting up 5 racks of new servers a week.
+
+### IT Director - [Destination Hotels and Resorrts](https://www.destinationhotels.com)
+###### 2007 - Jan 2012
+
+* Worked on premise in Lake Tahoe, CA managing all aspects of the IT infrastructure.
+* Purcashing equipment, leasing, tech support, getting yelled at, you name it.
 
 ----
 
