@@ -4,10 +4,10 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 
 ## Possibily Interesting Facts
 
-* I've worked remotely almost as long as I've been in an office. 
-* I'm a generalist, Jack of all trades, Master of none. 
 * I live in Upstate, NY with my wife, 2 kids, and 2 rottweilers Bonnie and Clyde. 
 * My wife and I snowmobile a few thousand miles a year. Its fun!
+* I've worked remotely almost as long as I've been in an office. 
+* I'm a generalist, Jack of all trades, Master of none. 
 
 ## Specialties
 
@@ -27,7 +27,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Worked across Commerical and Government clouds on the infrastructure automation squad. 
 * Manage, monitor, maintain our squads wide variety of internal applications. Python, Node, Golang etc.
 * Helping to manage and mentor service teams for a large migration of legacy services to our internal kubernetes platform. 
-* Worked to implement an Okta IDP implementation within our GovCloud enviroment for solving a long standing internal issue. 
+* Worked to implement an Okta IDP implementation within our GovCloud environment for solving a long standing internal testing issues. 
 * Apart of various high visability projects across the organization to save millions of dollars of ACV working directly with customers. 
 
 ### Lead Engineer - Security and Compliance Automation - [Salesforce](https://www.salesforce.com/) / [Heroku](https://www.heroku.com/about) 
@@ -78,11 +78,12 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 ### State University of New York 
 * 1998-2003 - BT, Computer Information Systems
 
+----
+
 ## Publications
 * 04/16/2012 - [Configuring Keystone in OpenStack (Essex)](https://ubuntu.com/blog/configuring-keystone-in-openstack-essex)
 
-
-
+----
 
 [Download PDF](https://github.com/joshuatobin/joshuatobin.github.io/raw/master/JoshuaTobin_Resume.pdf)
 
