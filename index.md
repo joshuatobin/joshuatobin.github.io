@@ -2,13 +2,6 @@
 
 Over 20+ years experience leading high-impact engineering initiatives. Goal-focused leader with a diverse background in cloud native infrastructure, distributed systems and high-availability production environments. I've had success working at small start-ups in addition to navigating large 50k+ people organizations. I have a knack for understanding cross-organizational deficiencies and solving problems through precise communication, efficient planning and execution. I prefer working on a team of highly motivated peers verses being in a silo as a service role. 
 
-## Possibily Interesting Facts
-
-* I live in Upstate, NY with my wife, 2 kids, and 2 rottweilers Bonnie and Clyde. 
-* My wife and I snowmobile a few thousand miles a year. Its fun!
-* I've worked remotely almost as long as I've been in an office. 
-* I'm a generalist, Jack of all trades, Master of none. 
-
 ## Specialties
 
 * Operating Systems: Ubuntu/Debian, CentOS, Redhat, etc.
@@ -84,6 +77,13 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * 04/16/2012 - [Configuring Keystone in OpenStack (Essex)](https://ubuntu.com/blog/configuring-keystone-in-openstack-essex)
 
 ----
+
+## Possibily Interesting Facts
+
+* I live in Upstate, NY with my wife, 2 kids, and 2 rottweilers Bonnie and Clyde. 
+* My wife and I snowmobile a few thousand miles a year. Its fun!
+* I've worked remotely almost as long as I've been in an office. 
+* I'm a generalist, Jack of all trades, Master of none. 
 
 [Download PDF](https://github.com/joshuatobin/joshuatobin.github.io/raw/master/JoshuaTobin_Resume.pdf)
 
