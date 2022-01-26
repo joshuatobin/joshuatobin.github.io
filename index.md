@@ -65,7 +65,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Worked on the operations team running the Second Life platform.
 * Colo runs, on-call, all-nighters, setting up 5 racks of new servers a week.
 
-### IT Director - [Destination Hotels and Resorrts](https://www.destinationhotels.com)
+### IT Director - [Destination Hotels and Resorts](https://www.destinationhotels.com)
 ###### 2007 - Jan 2012
 
 * Worked on premise in Lake Tahoe, CA managing all aspects of the IT infrastructure.
