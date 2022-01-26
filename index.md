@@ -27,7 +27,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Worked across Commercial and Government clouds on the infrastructure automation squad. 
 * Manage, monitor, maintain our squads wide variety of internal applications. Python, Node, Golang etc.
 * Helping to manage and mentor service teams for a large migration of legacy services to our internal kubernetes platform. 
-* Worked to implement an Okta IDP implementation within our GovCloud environment for solving a long standing internal testing issues. 
+* Worked to implement an Okta IDP implementation within our GovCloud environment for solving long standing internal testing issues. 
 * Apart of various high visibility projects across the organization to save millions of dollars of ACV working directly with customers. 
 
 ### Lead Engineer - Security and Compliance Automation - [Salesforce](https://www.salesforce.com/) / [Heroku](https://www.heroku.com/about) 
@@ -76,7 +76,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 ## Education
 
 ### State University of New York 
-* 1998-2003 - BT, Computer Information Systems
+* 1998-2003 - BT, [Computer Information Systems](https://www.cobleskill.edu/academics/schools/liberal-arts-and-sciences/business-it/information-technology-bt.aspx)
 
 ----
 
