@@ -5,7 +5,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 ## Possibily Interesting Facts
 
 * I've worked remotely almost as long as I've been in an office. 
-* I probably won't pass your whiteboard test and can't write you the next world changing algorithm. 
+* I'm a generalist, Jack of all trades, Master of none. 
 * I live in Upstate, NY with my wife, 2 kids, and 2 rottweilers Bonnie and Clyde. 
 * My wife and I snowmobile a few thousand miles a year. Its fun!
 
@@ -14,7 +14,6 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Operating Systems: Ubuntu/Debian, CentOS, Redhat, etc.
 * Languages: Ruby, Golang, JavaScript (Node js), Python, etc.
 * Applications/Tools: Kubernetes, Terraform, Docker, Git, Splunk, etc.
-
 
 ### Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
 ###### Sept 2021 - Current
@@ -32,7 +31,6 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Apart of various high visability projects across the organization to save millions of dollars of ACV working directly with customers. 
 
 ### Lead Engineer - Security and Compliance Automation - [Salesforce](https://www.salesforce.com/) / [Heroku](https://www.heroku.com/about) 
-
 ###### July 2020 - Feb 2021
 
 * Transitioned to a squad of 3 engineers tasked with solving a slew of compliance findings through automation. 
@@ -74,6 +72,17 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Purcashing equipment, leasing, tech support, getting yelled at, you name it.
 
 ----
+
+## Education
+
+### State University of New York 
+* 1998-2003 - BT, Computer Information Systems
+
+## Publications
+* 04/16/2012 - [Configuring Keystone in OpenStack (Essex)](https://ubuntu.com/blog/configuring-keystone-in-openstack-essex)
+
+
+
 
 [Download PDF](https://github.com/joshuatobin/joshuatobin.github.io/raw/master/JoshuaTobin_Resume.pdf)
 
