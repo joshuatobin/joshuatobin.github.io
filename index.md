@@ -8,7 +8,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Languages: Ruby, Golang, JavaScript (Node js), Python, etc.
 * Applications/Tools: Kubernetes, Terraform, Docker, Git, Splunk, etc.
 
-### Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
+### Principle Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
 ###### Sept 2021 - Current
 
 * Rogue Squadron - special projects virtual squad. Running various POC's for MuleSoft Production Engineering.
