@@ -8,7 +8,7 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * Languages: Ruby, Golang, JavaScript (Node js), Python, etc.
 * Applications/Tools: Kubernetes, Terraform, Docker, Git, Splunk, etc.
 
-### Principle Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
+### Principal Systems/Software Engineer / Infra-Eng - [Salesforce](https://www.salesforce.com/) / [MuleSoft](https://www.mulesoft.com/)
 ###### Sept 2021 - Current
 
 * Rogue Squadron - special projects virtual squad. Running various POC's for MuleSoft Production Engineering.
@@ -86,4 +86,3 @@ Over 20+ years experience leading high-impact engineering initiatives. Goal-focu
 * I'm a generalist, Jack of all trades, Master of none. 
 
 [Download PDF](https://github.com/joshuatobin/joshuatobin.github.io/raw/master/JoshuaTobin_Resume.pdf)
-
