@@ -1,5 +1,5 @@
 # Joshua Tobin
-Ballston Spa, NY | joshuatobin@gmail.com | 518-490-9010 | [linkedin.com/in/joshuamtobin/](https://linkedin.com/in/joshuamtobin/)
+Ballston Spa, NY • [joshuatobin@gmail.com](mailto:joshuatobin@gmail.com) • 518-490-9010 • [LinkedIn](https://linkedin.com/in/joshuamtobin/)
 
 ## SUMMARY
 Senior Site Reliability Engineer - Infrastructure with over 20 years of experience in cloud-native infrastructure and distributed systems for startups and Fortune 500 companies. Skilled in designing automated deployment pipelines and managing large-scale, mission-critical environments, driving performance, scalability and cost efficiency.
